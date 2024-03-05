@@ -4,13 +4,13 @@
 
 Passionate about leveraging technology to create intuitive and visually stunning web experiences.
 
-**Location:** Johannesburg, South Africa  
-**Phone:** 083 892 17878  
-**Email:** pbaloyi449@gmail.com  
+![Location Icon](https://img.icons8.com/ios/50/000000/marker.png) **Location:** Johannesburg, South Africa  
+![Phone Icon](https://img.icons8.com/ios/50/000000/phone.png) **Phone:** 083 892 17878  
+![Email Icon](https://img.icons8.com/ios/50/000000/email.png) **Email:** pbaloyi449@gmail.com  
 
 ---
 
-### Technical Skills
+## Technical Skills
 
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks/Libraries:** React, Vue.js (Currently learning)
