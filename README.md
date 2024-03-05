@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Portia Baloyi
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/xUPGGDNsLvqsBOhuU0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animation-cool-hello-xUPGGDNsLvqsBOhuU0">via GIPHY</a></p>
+
+![Uploading welcome-spinning-heart.gif…]()
 
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💬 Ask me about HTML, CSS, Responsive Design, Tailwind CSS and Javascript
