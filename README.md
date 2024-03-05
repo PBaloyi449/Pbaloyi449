@@ -25,6 +25,14 @@ Other Skills
 - 📄  Taxation
 - 📄  Financial Reporting
 
+### Ambitions
+- 📚 Continuous Learning
+- 🌍 Impactful Projects
+- 🪜 Career Advancement
+- 📖 Contributing to Open Source
+- 🆕 Innovation
+
+
 <!--
 **PBaloyi449/Pbaloyi449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
