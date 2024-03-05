@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Portia Baloyi
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVydWNqemZpYjNyMTM5enI1b2ZvcGJ1NHY2NzA5cHU1c21heXRlYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif
 
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💬 Ask me about HTML, CSS, Responsive Design, Tailwind CSS and Javascript
