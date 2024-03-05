@@ -12,9 +12,16 @@ Passionate about leveraging technology to create intuitive and visually stunning
 
 ## Technical Skills
 
+![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)  
 - **Languages:** HTML, CSS, JavaScript
+
+![React Icon](https://img.icons8.com/color/48/000000/react-native.png) ![Vue.js Icon](https://img.icons8.com/color/48/000000/vue-js.png)  
 - **Frameworks/Libraries:** React, Vue.js (Currently learning)
+
+![Git Icon](https://img.icons8.com/color/48/000000/git.png) ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code.png) ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png)  
 - **Tools/Platforms:** Git, VS Code, Bootstrap
+
+![Responsive Design Icon](https://img.icons8.com/ios-filled/50/000000/responsive.png)  
 - **Other Skills:** Responsive Design, UI/UX Design Principles
 
 ---
