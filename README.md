@@ -1,12 +1,15 @@
 # Portia Baloyi
 
-![Profile Picture](https://example.com/profile-picture.jpg)
-
-I seek challenging opportunities where I can fully use my skills for the success of the organization.
+As an aspiring front-end developer, I am eager to leverage my passion for technology and creativity to contribute to innovative web development projects. With a strong foundation in HTML, CSS, and JavaScript, I aim to enhance user experiences through intuitive and visually appealing interfaces. I am committed to continuous learning, staying updated on the latest industry trends and best practices to deliver high-quality, responsive web solutions. Seeking opportunities to collaborate with talented teams to tackle challenging projects and make meaningful contributions to the digital landscape.
 
 - **Location:** Johannesburg, South Africa
 - **Phone:** 083 892 17878
 - **Email:** pbaloyi449@gmail.com
+
+## I’m currently learning 
+- HTML
+- CSS -
+- Javascript
 
 ## Experience
 
