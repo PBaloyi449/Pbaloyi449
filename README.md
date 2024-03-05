@@ -1,46 +1,66 @@
+# Portia Baloyi
 
-# Hi there, I'm Portia Baloyi! 👋
+![Profile Picture](https://example.com/profile-picture.jpg)
 
-## About Me
+I seek challenging opportunities where I can fully use my skills for the success of the organization.
 
-I'm Portia Baloyi, a passionate learner currently diving into the world of web development with HTML, CSS, and JavaScript. I'm enthusiastic about creating responsive designs and exploring frameworks like Tailwind CSS. If you have any questions about HTML, CSS, responsive design, Tailwind CSS, or JavaScript, feel free to ask!
+- **Location:** Johannesburg, South Africa
+- **Phone:** 083 892 17878
+- **Email:** pbaloyi449@gmail.com
 
-- 🔭 I’m currently working on improving my skills in HTML, CSS, and JavaScript.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
-- 💬 Ask me about HTML, CSS, Responsive Design, Tailwind CSS, and JavaScript.
-- 📫 How to reach me: pbaloyi449@gmail.com
-- 📽️ All my projects are available on [GitHub](https://github.com/PBaloyi449).
-- ⚡ Fun fact: I am funny.
+## Experience
+
+**Finance Intern**  
+AON, South Africa  
+December 2021 - December 2022  
+- Assisted with Financial Analysis
+- Assisted with Financial Reporting
+- Assisted with Accounts Reconciliation
+- Approved Bank Payments
+
+## Education
+
+**Diploma in Accountancy**  
+University of Johannesburg, Johannesburg  
+February 2017 - December 2019  
+- Comprehensive skills in financial accounting, managerial accounting, taxation, auditing, financial management
+- Proficiency in accounting software
+- Analytical aptitude, problem-solving abilities, effective communication, ethical awareness, time management, and teamwork essential for success in accounting and finance professions
+
+**Higher Certificate in Banking**  
+Milpark Business School, Johannesburg  
+September 2020 - October 2021  
+- Diverse skill set essential for success in the banking industry
+- Financial analysis, risk management, banking regulations and compliance, customer service, sales and marketing, relationship management, financial products knowledge, communication skills, problem-solving abilities, and teamwork
 
 ## Skills
 
-### Programming Languages
+- Financial accounting proficiency
+- Managerial accounting skills
+- Taxation knowledge
+- Auditing competence
+- Analytical aptitude
+- Problem-solving skills
+- Effective communication
+- Time management
+- Teamwork and collaboration
+- Financial analysis
+- Sales and marketing
 
-- HTML
-- CSS
-- JavaScript
+## Awards
 
-### Soft Skills
+- Artificial Intelligence in the 4IR (2020)
+- Sage Evolution Premium University Certificate (2018)
+- Sage Evolution Fixed Assets V7.10 (2018)
+- Sage Business Cloud Payroll Practitioner (2019)
 
-- Communication Skills
-- Problem-Solving Skills
-- Ability to work under pressure
-- Team Player
+## Languages
 
-### Other Skills
+- English
+- Isizulu
+- Sesotho
+- Xitsonga
 
-- Accounting Principles
-- Financial Analysis
-- Taxation
-- Financial Reporting
-
-## Ambitions
-
-- 📚 Continuous Learning
-- 🌍 Impactful Projects
-- 🪜 Career Advancement
-- 📖 Contributing to Open Source
-- 🆕 Innovation
 
 
 <!--
