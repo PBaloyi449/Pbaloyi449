@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Portia Baloyi
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVydWNqemZpYjNyMTM5enI1b2ZvcGJ1NHY2NzA5cHU1c21heXRlYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/xUPGGDNsLvqsBOhuU0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animation-cool-hello-xUPGGDNsLvqsBOhuU0">via GIPHY</a></p>
 
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💬 Ask me about HTML, CSS, Responsive Design, Tailwind CSS and Javascript
