@@ -32,6 +32,8 @@ Passionate about leveraging technology to create intuitive and visually stunning
 *AON, South Africa*  
 December 2021 - December 2022  
 
+![Finance Experience](https://img.icons8.com/dusk/64/000000/resume.png)
+
 - Conducted financial analysis to optimize budget allocations.
 - Assisted in financial reporting procedures.
 - Contributed to accounts reconciliation processes.
