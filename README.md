@@ -30,14 +30,15 @@ Passionate about leveraging technology to create intuitive and visually stunning
 
 **Finance Intern**  
 *AON, South Africa*  
-December 2021 - December 2022  
+December 2021 - December 2022
 
-![Finance Experience](https://img.icons8.com/dusk/64/000000/resume.png)
-
-- Conducted financial analysis to optimize budget allocations.
-- Assisted in financial reporting procedures.
-- Contributed to accounts reconciliation processes.
-- Approved bank payments in accordance with financial protocols.
+- Assist with account reconciliations.
+- Approve payments and bank accounts.
+- Enter data and maintain updated records.
+- Monitor financial transactions
+- Verify financial and other data
+- Ensure all documents are properly signed
+- Process bills, checks, reciepts and other documents
 
 ---
 
