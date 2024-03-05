@@ -54,13 +54,10 @@ September 2020 - October 2021
 
 ## Awards
 
-- ![AI GIF](https://media.giphy.com/media/Ty9UY9d8egvja/giphy.gif) Artificial Intelligence in the 4IR (2020)
-- ![Sage GIF](https://media.giphy.com/media/3o6ZtisCnGTwJWoFlK/giphy.gif) Sage Evolution Premium University Certificate (2018)
-- ![Sage GIF](https://media.giphy.com/media/3o6ZtisCnGTwJWoFlK/giphy.gif) Sage Evolution Fixed Assets V7.10 (2018)
-- ![Sage GIF](https://media.giphy.com/media/3o6ZtisCnGTwJWoFlK/giphy.gif) Sage Business Cloud Payroll Practitioner (2019)
-- ![Coder GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif) Coding Champion Award (2017)
-- ![Innovator GIF](https://media.giphy.com/media/1nclj9b9k4jTM/giphy.gif) Innovation Excellence Award (2016)
-
+- Artificial Intelligence in the 4IR (2020)
+- Sage Evolution Premium University Certificate (2018)
+- Sage Evolution Fixed Assets V7.10 (2018)
+- Sage Business Cloud Payroll Practitioner (2019)
 ---
 
 ## Languages
