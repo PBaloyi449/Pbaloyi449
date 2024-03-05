@@ -1,54 +1,56 @@
 # Portia Baloyi
 
-As an aspiring front-end developer, I am eager to leverage my passion for technology and creativity to contribute to innovative web development projects. With a strong foundation in HTML, CSS, and JavaScript, I aim to enhance user experiences through intuitive and visually appealing interfaces. I am committed to continuous learning, staying updated on the latest industry trends and best practices to deliver high-quality, responsive web solutions. Seeking opportunities to collaborate with talented teams to tackle challenging projects and make meaningful contributions to the digital landscape.
+## Aspiring Front-End Developer
 
-- **Location:** Johannesburg, South Africa
-- **Phone:** 083 892 17878
-- **Email:** pbaloyi449@gmail.com
+Passionate about leveraging technology to create intuitive and visually stunning web experiences.
 
-## I’m currently learning 
-- HTML
-- CSS -
-- Javascript
+**Location:** Johannesburg, South Africa  
+**Phone:** 083 892 17878  
+**Email:** pbaloyi449@gmail.com  
+
+---
+
+### Technical Skills
+
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks/Libraries:** React, Vue.js (Currently learning)
+- **Tools/Platforms:** Git, VS Code, Bootstrap
+- **Other Skills:** Responsive Design, UI/UX Design Principles
+
+---
 
 ## Experience
 
 **Finance Intern**  
-AON, South Africa  
+*AON, South Africa*  
 December 2021 - December 2022  
-- Assisted with Financial Analysis
-- Assisted with Financial Reporting
-- Assisted with Accounts Reconciliation
-- Approved Bank Payments
+
+- Conducted financial analysis to optimize budget allocations.
+- Assisted in financial reporting procedures.
+- Contributed to accounts reconciliation processes.
+- Approved bank payments in accordance with financial protocols.
+
+---
 
 ## Education
 
 **Diploma in Accountancy**  
-University of Johannesburg, Johannesburg  
+*University of Johannesburg, Johannesburg*  
 February 2017 - December 2019  
-- Comprehensive skills in financial accounting, managerial accounting, taxation, auditing, financial management
-- Proficiency in accounting software
-- Analytical aptitude, problem-solving abilities, effective communication, ethical awareness, time management, and teamwork essential for success in accounting and finance professions
+
+- Developed comprehensive skills in financial accounting, managerial accounting, taxation, auditing, and financial management.
+- Proficient in accounting software applications.
+- Enhanced analytical aptitude, problem-solving abilities, and effective communication within a team environment.
 
 **Higher Certificate in Banking**  
-Milpark Business School, Johannesburg  
+*Milpark Business School, Johannesburg*  
 September 2020 - October 2021  
-- Diverse skill set essential for success in the banking industry
-- Financial analysis, risk management, banking regulations and compliance, customer service, sales and marketing, relationship management, financial products knowledge, communication skills, problem-solving abilities, and teamwork
 
-## Skills
+- Acquired a diverse skill set essential for success in the banking industry.
+- Explored financial analysis, risk management, banking regulations, and compliance.
+- Developed strong communication skills and the ability to work collaboratively within a dynamic team environment.
 
-- Financial accounting proficiency
-- Managerial accounting skills
-- Taxation knowledge
-- Auditing competence
-- Analytical aptitude
-- Problem-solving skills
-- Effective communication
-- Time management
-- Teamwork and collaboration
-- Financial analysis
-- Sales and marketing
+---
 
 ## Awards
 
@@ -56,6 +58,8 @@ September 2020 - October 2021
 - Sage Evolution Premium University Certificate (2018)
 - Sage Evolution Fixed Assets V7.10 (2018)
 - Sage Business Cloud Payroll Practitioner (2019)
+
+---
 
 ## Languages
 
