@@ -4,9 +4,9 @@
 
 Passionate about leveraging technology to create intuitive and visually stunning web experiences.
 
-![Location Icon](https://img.icons8.com/ios/50/000000/marker.png) **Location:** Johannesburg, South Africa  
-![Phone Icon](https://img.icons8.com/ios/50/000000/phone.png) **Phone:** 083 892 17878  
-![Email Icon](https://img.icons8.com/ios/50/000000/email.png) **Email:** pbaloyi449@gmail.com  
+![Location Icon](https://img.icons8.com/ios-filled/50/000000/marker.png) **Location:** Johannesburg, South Africa  
+![Phone Icon](https://img.icons8.com/ios-filled/50/000000/phone.png) **Phone:** 083 892 17878  
+![Email Icon](https://img.icons8.com/ios-filled/50/000000/email.png) **Email:** pbaloyi449@gmail.com  
 
 ---
 
@@ -54,10 +54,10 @@ September 2020 - October 2021
 
 ## Awards
 
-- Artificial Intelligence in the 4IR (2020)
-- Sage Evolution Premium University Certificate (2018)
-- Sage Evolution Fixed Assets V7.10 (2018)
-- Sage Business Cloud Payroll Practitioner (2019)
+- ![AI GIF](https://media.giphy.com/media/Ty9UY9d8egvja/giphy.gif) Artificial Intelligence in the 4IR (2020)
+- ![Sage GIF](https://media.giphy.com/media/3o6ZtisCnGTwJWoFlK/giphy.gif) Sage Evolution Premium University Certificate (2018)
+- ![Sage GIF](https://media.giphy.com/media/3o6ZtisCnGTwJWoFlK/giphy.gif) Sage Evolution Fixed Assets V7.10 (2018)
+- ![Sage GIF](https://media.giphy.com/media/3o6ZtisCnGTwJWoFlK/giphy.gif) Sage Business Cloud Payroll Practitioner (2019)
 
 ---
 
