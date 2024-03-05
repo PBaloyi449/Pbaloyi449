@@ -1,6 +1,18 @@
 ### Hi there 👋 I'm Portia Baloyi
 
 - 🌱 I’m currently learning HTML, CSS and Javascript
+- 💬 Ask me about HTML, CSS, Responsive Design, Tailwind CSS and Javascript
+- 📫 How to reach me: pbaloyi449@gmail.com
+- 📽️ All my projects are available on: https://github.com/PBaloyi449
+- ⚡ Fun fact: I am funny
+
+### Skills
+
+Programming Languages
+-HTML
+-CSS
+-Javascript
+
 
 <!--
 **PBaloyi449/Pbaloyi449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
