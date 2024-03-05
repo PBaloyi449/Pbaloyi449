@@ -10,9 +10,8 @@
 
 Programming Languages
 - 📄HTML
--CSS
--Javascript
-
+- 📄CSS
+- 📄Javascript
 
 <!--
 **PBaloyi449/Pbaloyi449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
