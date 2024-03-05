@@ -13,6 +13,18 @@ Programming Languages
 - 📄CSS
 - 📄Javascript
 
+Soft Skills
+- 🗣️ Communication Skills
+- 🖇️ Problem-Solving Skills
+- 🧗 Ability to work under pressure
+- ⛹️‍♂️ Team Player
+
+Other Skills
+- 📄 Accounting Principles
+- 📄  Financial Analysis
+- 📄  Taxation
+- 📄  Financial Reporting
+
 <!--
 **PBaloyi449/Pbaloyi449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
