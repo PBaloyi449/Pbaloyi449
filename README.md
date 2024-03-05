@@ -9,7 +9,7 @@
 ### Skills
 
 Programming Languages
--HTML
+- 📄HTML
 -CSS
 -Javascript
 
