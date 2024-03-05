@@ -1,33 +1,41 @@
-### Hi there 👋 I'm Portia Baloyi
 
-![Uploading welcome-spinning-heart.gif…]()
+# Hi there, I'm Portia Baloyi! 👋
 
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 💬 Ask me about HTML, CSS, Responsive Design, Tailwind CSS and Javascript
+## About Me
+
+I'm Portia Baloyi, a passionate learner currently diving into the world of web development with HTML, CSS, and JavaScript. I'm enthusiastic about creating responsive designs and exploring frameworks like Tailwind CSS. If you have any questions about HTML, CSS, responsive design, Tailwind CSS, or JavaScript, feel free to ask!
+
+- 🔭 I’m currently working on improving my skills in HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 💬 Ask me about HTML, CSS, Responsive Design, Tailwind CSS, and JavaScript.
 - 📫 How to reach me: pbaloyi449@gmail.com
-- 📽️ All my projects are available on: https://github.com/PBaloyi449
-- ⚡ Fun fact: I am funny
+- 📽️ All my projects are available on [GitHub](https://github.com/PBaloyi449).
+- ⚡ Fun fact: I am funny.
 
-### Skills
+## Skills
 
-Programming Languages
-- 📄HTML
-- 📄CSS
-- 📄Javascript
+### Programming Languages
 
-Soft Skills
-- 🗣️ Communication Skills
-- 🖇️ Problem-Solving Skills
-- 🧗 Ability to work under pressure
-- ⛹️‍♂️ Team Player
+- HTML
+- CSS
+- JavaScript
 
-Other Skills
-- 📄 Accounting Principles
-- 📄  Financial Analysis
-- 📄  Taxation
-- 📄  Financial Reporting
+### Soft Skills
 
-### Ambitions
+- Communication Skills
+- Problem-Solving Skills
+- Ability to work under pressure
+- Team Player
+
+### Other Skills
+
+- Accounting Principles
+- Financial Analysis
+- Taxation
+- Financial Reporting
+
+## Ambitions
+
 - 📚 Continuous Learning
 - 🌍 Impactful Projects
 - 🪜 Career Advancement
